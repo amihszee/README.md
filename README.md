@@ -6,17 +6,9 @@ I'm Amirhossein Shirazi — a Backend & Automation Developer focused on building
 
 ## 🚀 Tech Stack
 
-- Python
-- FastAPI
-- PostgreSQL
-- Redis
-- SQL Server
-- n8n
-- Docker
-- Linux
-- Webhooks
-- REST APIs
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,linux,nodejs,git,github" />
+</p>
 ---
 
 ## 🛠 Current Projects
